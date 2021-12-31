@@ -1,4 +1,4 @@
-[[2021.12.30.0]]
+[version=2021.12.30.0]
 diva.bond
 vbucks22.com
 snapgirls.today
