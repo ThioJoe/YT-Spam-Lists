@@ -13,6 +13,9 @@ jobs:
 
     steps:
       # ...
+      - name: set env
+        run: echo "::set-env name=NOW::$(date +'%Y.%m.%d')"
+        
       - name: "Build & test"
         run: |
           echo "done!"
@@ -20,7 +23,7 @@ jobs:
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
+          automatic_release_tag: "${{ env.NOW }}"
           prerelease: false
           title: "Latest Version"
           files: |
