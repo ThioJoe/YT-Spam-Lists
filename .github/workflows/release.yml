@@ -14,7 +14,7 @@ jobs:
     steps:
       # ...
       - name: set env
-        run: echo "::set-env name=NOW::$(date +'%Y.%m.%d')"
+        run: echo "NOW=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
         
       - name: "Build & test"
         run: |
@@ -25,6 +25,6 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "${{ env.NOW }}"
           prerelease: false
-          title: "Latest Version"
+          title: "${{ env.NOW }}"
           files: |
             SpamDomainsList.txt
