@@ -1,28 +1,33 @@
 name: Report Scam Links Seen In Comments
-description: Report scam links, you have seen in the Youtube comment section
-title: "Add scam link"
-labels: ["scam-link"]
+description: Report new domains used by scammers in YouTube comments
+title: "Submit Spam Domain"
+labels: ["scam-domain"]
 body:
   - type: markdown
     attributes:
       value: |      
-        Please do not create a PR, to make it easier for review
-  - type: dropdown
-    id: filter-mode
+        Please do not create a Pull Request to submit
+  - type: textarea
+    id: spam-comment-links
     attributes:
-      label: Link/Screenshot of spam comment
-      description: Please provide a link to the spam comment with the scam link, or a screenshot, preferably a link though.
+      label: Required: Spam Comment Direct Link
+      description: Direct links to an example of a spam bot using the spam domain in a comment.
+      placeholder: Enter at least one direct comment link per domain you want to submit.
+    validations:
+      required: true      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Optional: Screenshot of comments using the domain
+      description: While not required, please submit a screenshot of the spam comment(s)
       placeholder: (Screenshots can be attached by dragging and dropping image files here)
     validations:
+      required: false
+  - type: textarea
+    id: domain-list
+    attributes:
+      label: Required: List of the spam domains
+      description: Enter one domain per line, and only use lower case letters
+      placeholder: Enter one domain per line, and only use lower case letters
+    validations:
       required: true
-  - type: textarea
-    id: video-link
-    attributes:
-      label: Scam website link
-      description: A link of the scam website, the bot/user mentioned in the comment
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: (Optional) Additional Info / Context
-      description: Other info that might be helpful, such as a description of why a comment is or is not spam.
-      placeholder: Enter any extra info here
