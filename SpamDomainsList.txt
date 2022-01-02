@@ -1,5 +1,6 @@
 #!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM
 #version=[2022.1.1]
+#domains=[46]
 diva.bond
 vbucks22.com
 snapgirls.today
