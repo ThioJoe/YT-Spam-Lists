@@ -1,6 +1,6 @@
-name: Report Scam Links Seen In Comments
+name: Report Spam / Scam Domains Found In YouTube Comments
 description: Report new domains used by scammers in YouTube comments
-title: "Submit Spam Domain"
+title: "Spam Domain Submission"
 labels: ["scam-domain"]
 body:
   - type: markdown
