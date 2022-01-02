@@ -8,17 +8,24 @@ on:
 
 jobs:
   auto-release:
-    name: "Auto Release"
+    name: "Zip and Auto Release"
     runs-on: "ubuntu-latest"
 
     steps:
-      # ...
       - name: set env
         run: echo "NOW=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
         
       - name: "Build & test"
         run: |
           echo "done!"
+          
+      - uses: actions/checkout@v2
+      - uses: vimtor/action-zip@v1
+        with:
+          files: |
+            SpamDomainsList.txt
+          recursive: false
+          dest: ${{ env.NOW }}.zip          
 
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
@@ -27,4 +34,4 @@ jobs:
           prerelease: false
           title: "${{ env.NOW }}"
           files: |
-            SpamDomainsList.txt
+            ${{ env.NOW }}.zip
