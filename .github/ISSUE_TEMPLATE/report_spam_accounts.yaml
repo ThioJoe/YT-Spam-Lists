@@ -1,0 +1,43 @@
+name: Report Spam / Scam Accounts (on Instagram, Telegram, etc) Mentioned In YouTube Comments
+description: Report names of external social media accounts (instagram, telegram, etc) that are mentioned in scam comments as the point of contact for that particular scam. Usually these are scams advertising fake hacking services, free vbucks/robux, etc.
+title: "Scam Account Submission"
+labels: ["scam-account"]
+body:
+  - type: markdown
+    attributes:
+      value: |      
+        Please use this issues template to submit spam accounts. Do not do a pull request.
+  - type: checkboxes
+    id: not-already-in-list
+    attributes:
+      label: Duplicate Submissions
+      description: Check to make sure the account(s) are not already in the list. Go to the latest account list and do Ctrl+F to search - https://github.com/ThioJoe/YT-Spam-Domains-List/blob/main/SpamAccountsList.txt
+      options:
+        - label: Yes, I checked that the account name **is not currently in the list**
+          required: true
+        - label: I looked at the examples for each list in the ReadMe or Wiki before submitting
+          required: true          
+  - type: textarea
+    id: spam-comment-links
+    attributes:
+      label: (Required) Spam Comment Direct Link
+      description: Direct links to an example of a spam bot referencing the spam account in a comment.
+      placeholder: Enter at least one direct comment link per scam account you want to submit.
+    validations:
+      required: true      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: (Optional) Screenshot of comments referencing the scam account
+      description: While not required, please submit a screenshot of the spam comment(s)
+      placeholder: (Screenshots can be attached by dragging and dropping image files here)
+    validations:
+      required: false
+  - type: textarea
+    id: account-list
+    attributes:
+      label: (Required) List of the scam account names
+      description: Enter one account per line, and only use lower case letters
+      placeholder: Enter one account per line, and only use lower case letters
+    validations:
+      required: true
