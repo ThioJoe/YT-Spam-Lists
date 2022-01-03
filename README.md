@@ -3,6 +3,8 @@
 
 ### Current Lists:
 - SpamDomainsList: Domains used in scam YouTube comments
+- SpamAccountsList: Accounts which share scam links
+- SpamThreadsList: Accounts used in Crypto scam threads with links
 
 ### How to Contribute:
 - You can submit an **issue** with domains to add, but they MUST contain a direct link to a spam comment as proof, or a video on which many obvious spam comments are promoting the domain.
