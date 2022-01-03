@@ -1,0 +1,41 @@
+name: Report Spam / Scam Threads Found In YouTube Comments
+description: Report new names used by scammers in YouTube comment threads
+title: "Spam Thread Submission"
+labels: ["scam-thread"]
+body:
+  - type: markdown
+    attributes:
+      value: |      
+        Please use this issues template to submit spam names. Do not do a pull request.
+  - type: checkboxes
+    id: not-already-in-list
+    attributes:
+      label: Duplicate Names
+      description: Check to make sure the name(s) are not already in the list. Go to the latest name list and do Ctrl+F to search - https://github.com/ThioJoe/YT-Spam-Domains-List/blob/main/SpamThreadsList.txt
+      options:
+        - label: Yes, I checked that the name **is not currently in the list**
+          required: true    
+  - type: textarea
+    id: spam-comment-links
+    attributes:
+      label: (Required) Spam Comment Direct Link
+      description: Direct links to an example of a spam bot using the spam name in a comment thread.
+      placeholder: Enter at least one direct comment link per name you want to submit.
+    validations:
+      required: true      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: (Optional) Screenshot of comments using the name
+      description: While not required, please submit a screenshot of the spam comment(s)
+      placeholder: (Screenshots can be attached by dragging and dropping image files here)
+    validations:
+      required: false
+  - type: textarea
+    id: name-list
+    attributes:
+      label: (Required) List of the spam names
+      description: Enter one name per line, and only use lower case letters
+      placeholder: Enter one name per line, and only use lower case letters
+    validations:
+      required: true
