@@ -5,6 +5,8 @@ on:
   push:
     paths:
       - "SpamDomainsList.txt"
+      - "SpamThreadsList.txt"
+      - "SpamAccountsList.txt"
 
 jobs:
   auto-release:
@@ -22,8 +24,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vimtor/action-zip@v1
         with:
-          files: |
-            SpamDomainsList.txt
+          files: SpamDomainsList.txt SpamAccountsList.txt SpamThreadsList.txt
           recursive: false
           dest: ${{ env.NOW }}.zip          
 
