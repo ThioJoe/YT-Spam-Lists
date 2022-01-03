@@ -1,5 +1,5 @@
-# Crowd Sourced YouTube Comments Spam List:
-## Various lists of known scam domains and fake scam accounts on Instagram, Telegram, etc.
+# A Crowd Sourced YouTube Comments Spam Filter
+## Various lists of known scam domains and fake scam accounts on Whatsapp, Instagram, Telegram, etc.
 
 ### Current Lists:
 - **Spam Domains**: Domains used in scam YouTube comments
