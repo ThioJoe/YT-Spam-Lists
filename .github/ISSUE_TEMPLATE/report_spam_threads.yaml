@@ -15,7 +15,7 @@ body:
       options:
         - label: Yes, I checked that the name **is not currently in the list**
           required: true
-        - label: I looked at the examples for each list in the ReadMe or Wiki before submitting
+        - label: I read the wiki explaining each different categories and examples before submitting
           required: true
   - type: textarea
     id: spam-comment-links
