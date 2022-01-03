@@ -1,4 +1,4 @@
-name: Report Spam / Scam Accounts (on Instagram, Telegram, etc) Mentioned In YouTube Comments
+name: Report Scam Accounts (on Instagram, Telegram, etc) Mentioned In YouTube Comments
 description: Report names of social media accounts (instagram, telegram, etc) mentioned in scam comments. Usually these are scams advertising fake hacking services, free vbucks/robux, etc.
 title: "Scam Account Submission"
 labels: ["scam-account"]
