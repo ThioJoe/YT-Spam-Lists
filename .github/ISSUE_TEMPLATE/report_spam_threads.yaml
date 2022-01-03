@@ -1,5 +1,5 @@
 name: Report Names Used in Coordinated Spam Threads (with many bots talking to each other)
-description: Report account names and aliases (fake names of people) mentioned in coordinate spam threads with many bots talking to each other and "recommending" a scammer (like an 'expert investor')
+description: Report account names and aliases (fake names of people) mentioned in coordinated spam threads, with many bots talking to each other and "recommending" a scammer (like an 'expert investor')
 title: "Scam Thread Submission"
 labels: ["scam-thread"]
 body:
