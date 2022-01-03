@@ -15,7 +15,7 @@ body:
       options:
         - label: Yes, I checked that the account name **is not currently in the list**
           required: true
-        - label: I read the wiki explaining each different categories and examples before submitting
+        - label: I read <a href=https://github.com/ThioJoe/YT-Spam-Domains-List/wiki>the wiki</a> explaining each different categories and examples before submitting
           required: true          
   - type: textarea
     id: spam-comment-links
