@@ -1,0 +1,6 @@
+
+blank_issues_enabled: true
+contact_links:
+  - name: Feature Request
+    url: https://github.com/ThioJoe/YT-Spam-Domains-List/discussions
+    about: Please create feature requests in the Discussions tab.
