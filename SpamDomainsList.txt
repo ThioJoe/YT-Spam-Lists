@@ -36,7 +36,6 @@ vom.monster
 vom.black
 uniid.lol
 dat.gen.in
-youtube.ong
 vum.fyi
 voe.fyi
 vom.today
