@@ -1,0 +1,27 @@
+name: Scam Domain is Down
+description: Report if the scam domain is down. DO NOT VISIT THIS SITE, Use this tool https://downfor.io
+title: "Scam domain site is down"
+labels: ["site-down"]
+body:
+  - type: markdown
+    attributes:
+      value: |      
+        PLEASE DO NOT VISIT THE SITE TO CHECK IF IT IS DOWN OR NOT.... USE THIS TOOL https://downfor.io
+  - type: textarea
+    id: spam-comment-links
+    attributes:
+      label: (Required) Scam domain url
+      description: Please provide the domain that is down. Do not use the https:// while share these links.
+      placeholder: Enter at least one domain link per one scam domain down request you put in.
+    validations:
+      required: true      
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: (Required) Screenshot from downfor.io
+      description: Please share a screenshot of the site being down on downfor.io
+      placeholder: (Screenshots can be attached by dragging and dropping image files here)
+    validations:
+      required: true
+  - type: textarea
+    id: account-list
