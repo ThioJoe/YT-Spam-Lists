@@ -1,5 +1,5 @@
 #!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM
-#version=[2022.1.14]
+#version=[2022.1.17]
 diva.bond
 vbucks22.com
 snapgirls.today
@@ -91,3 +91,4 @@ localdate.monster
 shake-body.com
 germs-love.store
 baby-girls.my.id
+fluxmud.quest
