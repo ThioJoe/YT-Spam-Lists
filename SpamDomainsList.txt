@@ -1,5 +1,5 @@
 #!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM
-#version=[2022.1.31]
+#version=[2022.2.1]
 diva.bond
 vbucks22.com
 snapgirls.today
@@ -114,3 +114,4 @@ dollarbrite.com
 xbritclone.net
 247hacks.net
 orxhacks.com
+everyday.cf
