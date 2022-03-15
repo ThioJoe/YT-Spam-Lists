@@ -1,6 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
-# ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR MISAPPROPRIATED: ANY REFERENCE TO A REAL PERSON IS COMPLETELY COINCIDENTAL AND THE EXISTENCE OF SUCH NAMES IN THIS LIST IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS MALICIOUS
-#version=[2022.2.23]
+# ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
+# If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
+#version=[2022.3.15]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -14,7 +15,6 @@ teppercrypto
 ms louden
 matt_loudens
 ms matt louden
-steven hatzakis (The real Steven Hatzakis (@Hatgit on Github) is impersonated by scammers, more here: https://www.stevenhatzakis.com/scams-impersonation/)
 christian thomas clinton
 mr gerald howard
 expert gerald howard
@@ -44,3 +44,10 @@ charlotte junko walsh
 mrs diane walter
 Richard Carson
 bettina s. bergin
+
+#################################################################################################
+######## Below: Names currently known to be real people but are impersonated by scammers ########
+#################################################################################################
+
+# Notice posted by the real Steven Hatzakis (aka @Hatgit on Github) about spammers impersonating him: https://www.stevenhatzakis.com/scams-impersonation/
+steven hatzakis
