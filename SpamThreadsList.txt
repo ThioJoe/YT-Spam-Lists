@@ -2,71 +2,71 @@
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
 #version=[2022.6.21]
-mr williams charles
-mr patrick smith
-mr dieter schwartz
-mr chris larsen
-expert chris larsen
-mrs elizabeth moore
-elizabethmooree
-okayjeff
-daniel peter jeffery
-teppercrypto
-ms louden
-matt_loudens
-ms matt louden
+alex valentine
+alexandera davis
+angelia marie brown
+angelia marie brown
+bettina s. bergin
+casey allen gray
+charlotte junko walsh
 christian thomas clinton
-mr gerald howard
+daniel peter jeffery
+debbie tenn
+delia luna
+denise proctor
+denise sharnell proctor
+elizabeth a palmer
+Elizabeth Armstrong Palmer
+elizabethmooree
+eric john clark
+expert chris larsen
+expert david sacks
+expert eleanor
 expert gerald howard
+expert jennifer fan
+expert mike howard
 expert mrs lucy
+expert mrs stephanie
+katherine rae lobe
+kerry pickett
+matt_loudens
+mr charles r schwab
+mr chris larsen
+mr david sacks
+mr dennis services
+mr dieter schwartz
+mr donald watkins
+mr george walsh
+mr gerald howard
+mr lawrence tom
+mr mike howard
 mr nick maverick
+mr patrick smith
+mr steve miley
+mr williams charles
+mr's jennifer fan
+mrs angelia maria
 mrs camille Hilton
 mrs claudia walter
-pamela weaver trading
+mrs diane walter
+mrs elizabeth moore
+mrs gladys fx
+mrs gladys wood
+mrs jennifer fan
+ms angelia maria
+ms louden
+ms matt louden
+okayjeff
 pamela kay weaver
 pamela trading services
-mr donald watkins
-mr dennis services
-sir george walsh
-mr george walsh
-Elizabeth Armstrong Palmer
-elizabeth a palmer
-expert david sacks
-mr david sacks
-katherine rae lobe
-alexandera davis
-mrs gladys wood
-mrs gladys fx
-mr charles r schwab
-mr lawrence tom
-mr steve miley
-charlotte junko walsh
-mrs diane walter
-Richard Carson
-bettina s. bergin
-expert mike howard
-mr mike howard
-delia luna
-alex valentine
-eric john clark
-kerry pickett
+pamela weaver trading
 pickerry
-expert eleanor
-sarah oneill
-debbie tenn
+Richard Carson
 rodney buckner
-angelia marie brown
-ms angelia maria
-mrs angelia maria
-angelia marie brown
-mrs jennifer fan
-expert jennifer fan
-mr's jennifer fan
 samantha jack
-denise sharnell proctor
-denise proctor
-casey allen gray
-expert mrs stephanie
+sarah oneill
+sir george walsh
+teppercrypto
 
 
 #################################################################################################
@@ -74,5 +74,5 @@ expert mrs stephanie
 #################################################################################################
 
 # Notice posted by the real Steven Hatzakis (aka @Hatgit on Github) about spammers impersonating him: https://www.stevenhatzakis.com/scams-impersonation/
-mr steven hatzakis
 expert steven hatzakis
+mr steven hatzakis
