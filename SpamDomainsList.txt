@@ -1,5 +1,5 @@
-#!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM
-#version=[2022.7.10]
+#!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM - Also includes video IDs of videos promoted by spammers
+#version=[2022.7.15]
 diva.bond
 vbucks22.com
 snapgirls.today
@@ -177,3 +177,15 @@ likeex.uno
 topgirls.uno
 caress.uno
 luxgut.cyou
+
+#Spam Video IDs
+yHM2pUbzU9k
+GTHlCk7fEOY
+lE5U2d1shBM
+93Fyv4XAr-A
+hjfR_hMpNmc
+-y5djiBTD4c
+d9Jn-9K2_68
+mCfYi7634rU
+a1j9owBuwdQ
+A3Xk9-Znf40
