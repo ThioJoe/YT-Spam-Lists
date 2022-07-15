@@ -24,6 +24,12 @@
 <p align="center"><img width="650" alt="Spam Domain 3" src="https://user-images.githubusercontent.com/12518330/147955429-a55e1c39-7732-470d-b584-6e23e3f0915a.png"></p>
 
 ***
+## <p align="center"> Spam Video Link Examples: </p>
+<p align="center"><img width="400" alt="Spam Vids 1" src="https://user-images.githubusercontent.com/12518330/179284470-33f2cda6-2fac-4d20-b8d0-6b0484f05dd4.png"></p>
+<p align="center"><img width="400" alt="spam vids 2" src="https://user-images.githubusercontent.com/12518330/179284474-3a97d11c-eece-4816-8df7-e869abb472d5.png"></p>
+<p align="center"><img width="400" alt="spam vids 3" src="https://user-images.githubusercontent.com/12518330/179284481-204ddcef-28ba-4773-b2b0-0012006a6ee1.png"></p>
+
+***
 ## <p align="center"> Spam Accounts Examples: </p>
 <p align="center"><img width="850" alt="Telegram Instagram Spam Accounts" src="https://user-images.githubusercontent.com/12518330/147953877-65811d15-feb6-48f4-9a72-912db59d03fc.png"></p>
 
