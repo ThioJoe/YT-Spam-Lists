@@ -1,5 +1,5 @@
 #!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM - Also includes video IDs of videos promoted by spammers
-#version=[2022.8.15]
+#version=[2022.8.19]
 diva.bond
 vbucks22.com
 snapgirls.today
@@ -181,6 +181,7 @@ sleepfriendd.online
 verwohntt.online
 emprutt.online
 warmthh.online
+empr.online
 
 #Spam Video IDs
 yHM2pUbzU9k
@@ -225,3 +226,6 @@ CWfd8OjWkwg
 fhTnqE89qqc
 _lP2qXjtS9k
 H-ZfIQW3LOE
+5IMv93-9qPc
+SnypcQIWPdE
+NL3kyMVe4zU
