@@ -1,5 +1,5 @@
 #!! NOTE: THESE ARE SCAM / MALICIOUS DOMAINS - DO NOT VISIT THEM - Also includes video IDs of videos promoted by spammers
-#version=[2023.08.25]
+#version=[2023.08.27]
 diva.bond
 vbucks22.com
 snapgirls.today
@@ -212,6 +212,7 @@ snapripper.net
 hackappspro.com 
 heluvv.ru
 luxsliv.ru
+ehes.ru
 
 #Spam Video IDs
 yHM2pUbzU9k
