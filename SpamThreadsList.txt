@@ -1,7 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
-#version=[2023.10.12]
+#version=[2023.10.18]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -292,6 +292,7 @@ margaret johnson arndt
 james werden
 chris ryan stewart
 david jeffrey herman
+aubrey richardson
 
 #################################################################################################
 ######## Below: Names currently known to be real people but are impersonated by scammers ########
