@@ -1,7 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
-#version=[2024.02.17]
+#version=[2024.02.28]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -311,6 +311,7 @@ alicia ann jordan
 jenny pamogas canaya
 jihan wu
 jared brian watkins
+jessica annabelle rupp
 
 #################################################################################################
 ######## Below: Names currently known to be real people but are impersonated by scammers ########
