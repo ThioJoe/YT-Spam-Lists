@@ -1,7 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
-#version=[2024.06.04]
+#version=[2024.06.07]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -337,6 +337,8 @@ angela lynn schilling
 alicia estela cabouli
 amber dawn brummit
 mr brian nelson
+kristin amber landis
+louise o'brien
 
 #################################################################################################
 ######## Below: Names currently known to be real people but are impersonated by scammers ########
