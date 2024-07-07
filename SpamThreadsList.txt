@@ -1,7 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
-#version=[2024.06.27]
+#version=[2024.07.07]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -342,6 +342,10 @@ louise o'brien
 desiree ruth hoffman
 gerry wes
 melissa elise robinson
+layan talia chokr
+karen lynne chess
+mildred geneva hyder
+tomas calez antonio
 
 #################################################################################################
 ######## Below: Names currently known to be real people but are impersonated by scammers ########
