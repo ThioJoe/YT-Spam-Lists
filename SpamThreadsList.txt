@@ -1,7 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
-#version=[2025.03.04]
+#version=[2025.03.15]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -436,6 +436,14 @@ mrs sharon duke
 tracy britt cool consulting
 miss sylvia wallace
 alison bruce
+donald mark
+serenwintersun
+marc andrew zabicki
+elizabeth anderson
+finra agent
+landra lilly macy
+mr george bryan
+jane marie ising
 
 #################################################################################################
 ######## Below: Names currently known to be real people but are impersonated by scammers ########
