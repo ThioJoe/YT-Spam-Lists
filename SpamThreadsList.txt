@@ -1,7 +1,7 @@
 #!! NOTE: ALL OF THESE USERNAMES ARE BELIEVED TO BE USED BY SCAMMERS - DO NOT CONTACT THEM
 # ANY NAMES OF PEOPLE ARE PRESUMED TO BE FICTITIOUS OR IMPERSONATIONS: ANY REFERENCE TO A REAL PERSON IS ONLY BECAUSE THOSE NAMES ARE USED IN SPAM COMMENTS, AND IS NOT TO IMPLY THAT EVERYONE WITH THAT NAME IS ACTUALLY MALICIOUS
 # If you are a real person whose name appears on this list, feel free to create an 'issue' post if you'd like context to be added about the impersonation of your name
-#version=[2025.03.22]
+#version=[2025.03.31]
 mr williams charles
 mr patrick smith
 mr dieter schwartz
@@ -449,6 +449,24 @@ evelyn mya
 karolina selene kalinowska
 johnroy trades
 mr robert l cox
+dorian caine
+proopsy
+fredmtrade
+sophia haney
+mr j clark
+larry addison
+richardmtradess
+larry addisons
+luna dyami
+jerry lucas
+marisa michelle litwinksy
+karen mooradian reed
+etta susan
+julia hope marble
+miltonharper
+grace lorraine austin
+frederick hamlin shull
+kelley annette lewi
 
 #################################################################################################
 ######## Below: Names currently known to be real people but are impersonated by scammers ########
